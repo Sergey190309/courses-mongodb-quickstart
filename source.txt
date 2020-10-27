@@ -1,0 +1,1 @@
+https://training.talkpython.fm/courses/details/mongodb-python-quickstart-mongoengine
